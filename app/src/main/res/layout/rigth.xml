@@ -5,8 +5,9 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/txt"
+        android:id="@+id/txt1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Hola Mundo Second Frament"/>
+
 </LinearLayout>
